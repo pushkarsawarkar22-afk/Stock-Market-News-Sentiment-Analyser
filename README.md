@@ -2,7 +2,7 @@
 ### NLP Subject Project — Comparative Analysis: VADER Heuristics vs Custom ML Model
 
 > **Base Repository:** `mrinankmj/Stock_News_Sentiment_Analysis`  
-> **Extended by:** Pushkar Sawarkar
+> **Extended by:** Pushkar Sawarkar and Pushpak Bajanghate
 
 ---
 
