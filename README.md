@@ -5,10 +5,7 @@
 > **Extended by:** Pushkar Sawarkar
 
 ---
-Show Image
-Show Image
-Show Image
-
+https://img.shields.io/badge/version-1.0.0-green.svg
 
 ## Project Overview
 
